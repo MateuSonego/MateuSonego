@@ -42,15 +42,13 @@ Meu objetivo é crescer como profissional, colaborar em projetos e entregar resu
 ## 📊 Estatísticas GitHub  
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=salleeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salleeem&layout=compact&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=salleeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salleeem&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
