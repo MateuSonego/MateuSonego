@@ -42,17 +42,17 @@ Meu objetivo é crescer como profissional, colaborar em projetos e entregar resu
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salleeem&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateuSonego&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salleeem&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salleeem&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateuSonego&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MateuSonego&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salleeem&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salleeem&theme=github_dark&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateuSonego&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateuSonego&theme=github_dark&utcOffset=-3" />
 </p>
 
 
@@ -61,7 +61,7 @@ Meu objetivo é crescer como profissional, colaborar em projetos e entregar resu
 ## 🌐 Contato & Redes  
 
 <p align="left">
-  <a href="https://github.com/salleeem" target="_blank">
+  <a href="https://github.com/MateuSonego" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
