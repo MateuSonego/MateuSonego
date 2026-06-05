@@ -39,17 +39,16 @@ Meu objetivo é crescer como profissional, colaborar em projetos e entregar resu
 
 ---
 
-## 📊 Estatísticas GitHub  
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MateuSonego&show_icons=true&theme=tokyonight&include_all_commits=true"
-    width="420"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuSonego&layout=compact&theme=tokyonight"
-    width="360"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salleeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salleeem&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salleeem&theme=tokyonight" />
 </p>
 
 
